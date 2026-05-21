@@ -21,13 +21,13 @@ Application will enable users to upload an image and automatically identify obje
 
 
 ## Screenshots:
-Home Page
-
-(Add screenshot here)
+Home Page:
+(Screenshot 2026-05-21 101819.png)
 
 Object Detection Result
-
-(Add screenshot here)
+((Screenshot 2026-05-21 101755.png)
+,(Screenshot 2026-05-21 101932.png)
+)
 
 ## How to Run the Project:
 1. Install required libraries
